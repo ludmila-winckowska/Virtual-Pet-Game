@@ -4,6 +4,12 @@ A virtual pet game made with **Python** and **Pygame**. Take care of a little pl
 
 This is my **third Python learning project**. I built it step by step while learning programming and game development.
 
+## Demo
+
+Watch a short video demonstration of Virtual Pet Game:
+
+[![Virtual Pet Game - Gameplay Demo](https://img.youtube.com/vi/yuyU1iVWAOo/maxresdefault.jpg)](https://youtu.be/yuyU1iVWAOo)
+
 ## Features
 
 - **New Game** and **Continue** options, with progress saved in a local JSON file.
@@ -51,3 +57,9 @@ This project helped me practice functions, game states, animations, saving and l
 I developed this project with guidance and coding assistance from **ChatGPT by OpenAI**. Throughout the process, I made decisions about the game, tested its features, and worked through technical challenges while learning Python with AI support.
 
 I am sincerely grateful to **OpenAI** for making this learning experience possible.
+
+
+## Usage
+
+This repository is shared publicly for portfolio and educational purposes.
+No permission is granted to reuse, redistribute, or commercially use the original source code without permission.
